@@ -1,0 +1,22 @@
+{
+  "name": "ec2_command",
+  "version": "1.0.0",
+  "description": "REST api to create and deply ec2 instances",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rigox/EC2_COMMAND.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rigox/EC2_COMMAND/issues"
+  },
+  "homepage": "https://github.com/rigox/EC2_COMMAND#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
